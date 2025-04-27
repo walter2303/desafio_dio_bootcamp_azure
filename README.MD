@@ -35,8 +35,3 @@ Aqui estão algumas capturas de tela do projeto:
 
 ---
 
-### Como rodar o projeto?
-
-1. Crie um ambiente virtual em Python:
-   ```bash
-   python -m venv venv
